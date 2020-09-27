@@ -115,7 +115,7 @@ export default {
     box-shadow:0 4px #6b54d3;
     color:#fff
 }
-.keys span.eval:hover {
+.keys span:nth-child(15):hover {
     background:#abb850;
     box-shadow:0 4px #717a33;
     color:#fff
@@ -124,7 +124,7 @@ export default {
     box-shadow:0 0 #6b54d3;
     top:4px
 }
-.keys span.eval:active {
+.keys span:nth-child(15):active {
     box-shadow:0 0 #717a33;
     top:4px
 }
